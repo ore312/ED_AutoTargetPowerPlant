@@ -1,0 +1,37 @@
+{
+    "Target": [
+        {
+            "Subsystem": "Power Plant",
+            "Key": [
+                39
+            ],
+            "KeySkip": 7
+        },
+        {
+            "Subsystem": "Drive",
+            "Key": [
+                40
+            ],
+            "KeySkip": 8
+        },
+        {
+            "Subsystem": "FSD",
+            "Key": [
+                43
+            ],
+            "KeySkip": 6
+        }
+    ],
+    "CYCLE_NEXT_SUBSYSTEM": [
+        54,
+        82,
+        38
+    ],
+    "CYCLE_PREVIOUS_SUBSYSTEM": [
+        54,
+        82,
+        37
+    ],
+    "KeyDelay": 0.0125,
+    "NextRightFlag": true
+}
